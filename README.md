@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Jeferson Tomazella
-- 👀 I’m interested in learning Godot, Unreal, Unity, Game Design, Level Design and Game Development
-- 🌱 I’m currently learning Godot
-- 💞️ I work on the Narcalid project, a AA non-violent, fast paced, multiplayer metroidvania.
+- 👋 Hi, Jeferson Tomazella here.
+- 💫 I'm a Game Level Designer, Game Dev, DevOps, father, Reiki Master, Ho'oponopono Master and the list goes on.
+- 👀 I'm currently learning DevOps with Docker, Kubernetes, Grafana, ArgoCD, Prometheus...
+- 🔱 But I'm also interested in Godot, Unreal, Unity, Python, JavaScript, Go...
+- 💞️ I worked on the Narcalid project, a AA non-violent, fast paced, multiplayer metroidvania.
+- 💹 I'm working at arqui.dev right now, a cloud sollution company.
 - 📫 How to reach me: send me a message here, or on linkeding: https://www.linkedin.com/in/jefersontomazella/

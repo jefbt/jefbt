@@ -2,6 +2,6 @@
 - 💫 I'm a Game Level Designer, Game Dev, DevOps, father, Reiki Master, Ho'oponopono Master and the list goes on.
 - 👀 I'm currently learning DevOps with Docker, Kubernetes, Grafana, ArgoCD, Prometheus...
 - 🔱 But I'm also interested in Godot, Unreal, Unity, Python, JavaScript, Go...
-- 💞️ I worked on the Narcalid project, a AA non-violent, fast paced, multiplayer metroidvania.
+- 💞️ I worked on the [Narcalid](https://store.steampowered.com/app/2341110/Narcalid/) project, a AA non-violent, fast paced, multiplayer metroidvania.
 - 💹 I'm working at arqui.dev right now, a cloud sollution company.
-- 📫 How to reach me: send me a message here, or on linkeding: https://www.linkedin.com/in/jefersontomazella/
+- 📫 How to reach me: send me a message here, or on [LinkedIn](https://www.linkedin.com/in/jefersontomazella/)

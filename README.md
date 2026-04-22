@@ -1,7 +1,6 @@
 - 👋 Hi, Jeferson Tomazella here.
-- 💫 I'm a Game Level Designer, Game Dev, DevOps, father, Reiki Master, Ho'oponopono Master and the list goes on.
-- 👀 I'm currently learning DevOps with Docker, Kubernetes, Grafana, ArgoCD, Prometheus...
-- 🔱 But I'm also interested in Godot, Unreal, Unity, Python, JavaScript, Go...
-- 💞️ I worked on the [Narcalid](https://store.steampowered.com/app/2341110/Narcalid/) project, a AA non-violent, fast paced, multiplayer metroidvania.
-- 💹 I'm working at arqui.dev right now, a cloud sollution company.
+- 💫 I'm a Game Desinger, Level Designer, Game Developer, father, Reiki Master, Ho'oponopono Master, Guitarrist...
+- 🔱 My main engines are Unity, Godot and Unreal, and I'm more activelly learning Godot and Unreal now (I'm already used to Unity)
+- 💞️ I worked on the [Narcalid](https://store.steampowered.com/app/2341110/Narcalid/) project, a non-violent, fast paced, multiplayer metroidvania.
 - 📫 How to reach me: send me a message here, or on [LinkedIn](https://www.linkedin.com/in/jefersontomazella/)
+- You can find my social media as @TomazellaGames on [X](https://x.com/TomazellaGames), [Bluesky](https://bsky.app/profile/tomazellagames.bsky.social), [Facebook](https://www.facebook.com/TomazellaGames/), [Instagram](https://www.instagram.com/tomazellagames/), [TikTok](https://www.tiktok.com/@tomazellagames), [Pinterest](https://br.pinterest.com/tomazellagames/), [YouTube](https://www.youtube.com/@TomazellaGames) and as Jeferson Tomazella on [reddit](https://www.reddit.com/user/JefersonTomazella/)
